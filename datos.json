@@ -1,0 +1,26 @@
+[
+    {
+      "precio": 3199,
+      "id": 1,
+      "title": "Fernet",
+      "thumbnailUrl": "assets/img/fernet.jpg"
+    },
+    {
+      "precio": 339,
+      "id": 2,
+      "title": "Cerveza",
+      "thumbnailUrl": "assets/img/cerveza.webp"
+    },
+    {
+      "precio": 299,
+      "id": 3,
+      "title": "Arroz",
+      "thumbnailUrl": "assets/img/arroz.webp"
+    },
+    {
+      "precio": 359,
+      "id": 4,
+      "title": "Galletitas",
+      "thumbnailUrl": "assets/img/galletitas.webp"
+    }
+  ]
